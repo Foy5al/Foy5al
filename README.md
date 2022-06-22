@@ -2,9 +2,9 @@
 #### Frontend Developer
 ![Frontend Developer](https://media-exp1.licdn.com/dms/image/C5616AQEsJqRGp35FFA/profile-displaybackgroundimage-shrink_350_1400/0/1612461760249?e=1661385600&v=beta&t=cdnVF67iJc2W1JLTdjQWhqRJlJlzYm0y9LnHnmduX9I)
 
-![Profile views](https://gpvc.arturio.dev/Foy5al) 
+
 ---
-[![](https://visitcount.itsvg.in/api?id=foy5al&icon=0&color=9)](https://visitcount.itsvg.in)
+![Profile views](https://gpvc.arturio.dev/Foy5al) 
 
 # 💫 About Me:
 I have two leading passions in my life: one is to create and another is to explore. I love to create websites, and Graphics design and making animation give me a lot of joy. I always try to learn new things and never like to limit myself to a box. Desire to work as a MERN stack developer and quickly learn new technologies. <br><br>

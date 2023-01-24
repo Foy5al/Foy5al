@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mohammad Foysal
 #### Frontend Developer
-![Frontend Developer]([https://media-exp1.licdn.com/dms/image/C5616AQFAz7P8FMcoyQ/profile-displaybackgroundimage-shrink_350_1400/0/1668454274511?e=1674086400&v=beta&t=-FRm360ON7SNaT8wcHq15zPlfmGu0-lpE6dNQYmbcp0](https://i.ibb.co/GnHpPJN/mohammad-foysal-linkedin-cover.jpg))
+![Full Stack Developer](https://i.ibb.co/GnHpPJN/mohammad-foysal-linkedin-cover.jpg)
 
 
 ---

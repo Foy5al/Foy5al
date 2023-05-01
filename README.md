@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Mohammad Foysal
-#### Frontend Developer
+### Hi there 👋, This is Mohammad Foysal
+#### Full stack Developer
 ![Full Stack Developer](https://i.ibb.co/GnHpPJN/mohammad-foysal-linkedin-cover.jpg)
 
 

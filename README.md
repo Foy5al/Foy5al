@@ -8,7 +8,10 @@
 
 # 💫 About Me:
 I have two leading passions in my life: one is to create and another is to explore. I love to create websites, and Graphics design and making animation give me a lot of joy. I always try to learn new things and never like to limit myself to a box. Desire to work as a MERN stack developer and quickly learn new technologies. <br><br>
-🔭 I’m currently working on ([Dazzling Smile Doctor service website](https://dazzling-smile.web.app/))<br><br>🌱 I’m currently learning React-Redux MongoDB and Node Js<br><br>💬 Ask me in [WhatsApp](https://alvo.chat/1Pd)<br><br>📫 How to reach me: mh.foysal.h@gmail.com
+🔭 I’m currently working on ([Dazzling Smile Doctor service website](https://dazzling-smile.web.app/))<br><br>🌱 I’m currently learning React-Redux Typescript and Node Js<br><br>💬 Ask me in [WhatsApp](https://alvo.chat/1Pd)<br><br>📫 How to reach me: mh.foysal.h@gmail.com
+
+
+<a href="https://app.daily.dev/Foysal"><img src="https://api.daily.dev/devcards/48709602bb5e411a8a39a82b3a65dc3f.png?r=sto" width="400" alt="Mohammad Foysal's Dev Card"/></a>
 
 
 ## 🌐 Socials:

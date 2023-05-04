@@ -11,9 +11,6 @@ I have two leading passions in my life: one is to create and another is to explo
 🔭 I’m currently working on ([Dazzling Smile Doctor service website](https://dazzling-smile.web.app/))<br><br>🌱 I’m currently learning React-Redux Typescript and Node Js<br><br>💬 Ask me in [WhatsApp](https://alvo.chat/1Pd)<br><br>📫 How to reach me: mh.foysal.h@gmail.com
 
 
-<a href="https://app.daily.dev/Foysal"><img src="https://api.daily.dev/devcards/48709602bb5e411a8a39a82b3a65dc3f.png?r=sto" width="400" alt="Mohammad Foysal's Dev Card"/></a>
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamfoysal.h) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mh_foysal_h) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-foysal-h) 
 
@@ -23,6 +20,9 @@ I have two leading passions in my life: one is to create and another is to explo
 ![](https://github-readme-stats.vercel.app/api?username=foy5al&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=foy5al&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=foy5al&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+#DevCard:
+<a href="https://app.daily.dev/Foysal"><img src="https://api.daily.dev/devcards/48709602bb5e411a8a39a82b3a65dc3f.png?r=sto" width="400" alt="Mohammad Foysal's Dev Card"/></a>
 
 
 

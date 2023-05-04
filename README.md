@@ -21,7 +21,7 @@ I have two leading passions in my life: one is to create and another is to explo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=foy5al&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=foy5al&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-#DevCard:
+#DevCard Stats:<br>
 <a href="https://app.daily.dev/Foysal"><img src="https://api.daily.dev/devcards/48709602bb5e411a8a39a82b3a65dc3f.png?r=sto" width="400" alt="Mohammad Foysal's Dev Card"/></a>
 
 

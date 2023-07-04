@@ -4,7 +4,7 @@
 
 
 ---
-![Profile views](https://gpvc.arturio.dev/Foy5al) 
+![](https://komarev.com/ghpvc/?username=your-github-foy5al&style=flat-square&color=25E7B3) 
 
 # 💫 About Me:
 I have two leading passions in my life: one is to create and another is to explore. I love to create websites, and Graphics design and making animation give me a lot of joy. I always try to learn new things and never like to limit myself to a box. Desire to work as a MERN stack developer and quickly learn new technologies. <br><br>

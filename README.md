@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-foy5al&style=flat-square&color=25E7B3) 
 
 # 💫 About Me:
-I have two leading passions in my life: one is to create and another is to explore. I love to create websites, and Graphics design and making animation give me a lot of joy. I always try to learn new things and never like to limit myself to a box. Desire to work as a MERN stack developer and quickly learn new technologies. <br><br>
+One of my two main interests in life is creating, and the other is exploring. I enjoy designing graphics and animating, and I also enjoy building websites. I constantly strive to learn new things and despise having my options limited. I'm currently searching for a respected IT business with room for expansion. desire to learn new technologies rapidly and work as a MERN stack developer. <br><br>
 🔭 I’m currently working on ([Dazzling Smile Doctor service website](https://dazzling-smile.web.app/))<br><br>🌱 I’m currently learning React-Redux Typescript and Node Js<br><br>💬 Ask me in [WhatsApp](https://alvo.chat/1Pd)<br><br>📫 How to reach me: mh.foysal.h@gmail.com
 
 

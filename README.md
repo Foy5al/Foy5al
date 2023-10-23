@@ -22,7 +22,6 @@ One of my two main interests in life is creating, and the other is exploring. I 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=foy5al&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 #DevCard Stats:<br>
-<a href="https://app.daily.dev/Foysal"><img src="https://api.daily.dev/devcards/48709602bb5e411a8a39a82b3a65dc3f.png?r=sto" width="400" alt="Mohammad Foysal's Dev Card"/></a>
-
+<a href="https://app.daily.dev/foy5al"><img src="https://api.daily.dev/devcards/48709602bb5e411a8a39a82b3a65dc3f.png?r=t1g" width="400" alt="Mohammad Foysal's Dev Card"/></a>
 
 

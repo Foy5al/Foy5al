@@ -9,7 +9,7 @@
 </div>
 # 💫 About Me:
 One of my two main interests in life is creating, and the other is exploring. I enjoy designing graphics and animating, and I also enjoy building websites. I constantly strive to learn new things and despise having my options limited. I'm currently searching for a respected IT business with room for expansion. desire to learn new technologies rapidly and work as a MERN stack developer. <br><br>
-🌱 I’m currently learning React-Redux Typescript and Node Js<br><br>📫 How to reach me: mh.foysal.h@gmail.com<br><br>
+🌱 I’m currently learning React-Redux, TypeScript, and Node.js.<br><br>📫 How to reach me: mh.foysal.h@gmail.com<br><br>
 
  <div id="badges">
     <img  align="right" src="https://komarev.com/ghpvc/?username=foy5al&label=Profile%20views&color=green&style=flat" alt="foy5al" />
